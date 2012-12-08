@@ -1,4 +1,4 @@
-fasthack.github.com
-===================
-
 Fasthack Homepage
+=================
+
+http://www.fasthack.de/
